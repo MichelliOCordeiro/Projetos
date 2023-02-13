@@ -1,4 +1,14 @@
+using FilmesAPI.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("FilmeConnection");
+//no .net6 não precisa mais usar a startup, faz toda a configuração pelo program
+//AddDbContext= faz a conexão com o banco
+//opts: definir as opções que eu tenho para acessar o banco (baixar o pomeloSql)
+builder.Services.AddDbContext<FilmeContext>(opts =>
+opts.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
 // Add services to the container.
 

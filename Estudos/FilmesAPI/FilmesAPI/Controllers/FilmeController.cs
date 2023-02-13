@@ -1,4 +1,5 @@
-﻿using FilmesAPI.Models;
+﻿using FilmesAPI.Data;
+using FilmesAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.TagHelpers.Cache;
 
@@ -9,18 +10,26 @@ namespace FilmesAPI.Controllers
     [Route("[controller]")]
     public class FilmeController : ControllerBase
     {
-        private static int id = 0;
-        //static para ficar na classe toda, aqui estou criando uma nova lista de filme, o filmes é o nome que estou
-        //dando a lista
-        private static List<Filme> filmes = new List<Filme>();
+        //injecao de dependencia
+        private FilmeContext _context;
+
+        public FilmeController(FilmeContext context)
+        {
+            _context = context;
+        }
+
+        //private static int id = 0;
+        ////static para ficar na classe toda, aqui estou criando uma nova lista de filme, o filmes é o nome que estou
+        ////dando a lista
+        //private static List<Filme> filmes = new List<Filme>();
 
         //aqui vai o post, que é para atualizar/inserir info, e a info vai vir do corpo da requisição (fromBody)
         [HttpPost]
         //public void AdicionaFilme([FromBody] Filme filme)
         public IActionResult AdicionaFilme([FromBody] Filme filme)
         {
-            filme.Id = id++;
-            filmes.Add(filme);
+            _context.Filmes.Add(filme);
+            _context.SaveChanges();
             return CreatedAtAction(nameof(RecuperaFilmesPorId),
                 new { id = filme.Id },
                 filme);
@@ -42,9 +51,9 @@ namespace FilmesAPI.Controllers
         //o fromQuer é a forma que isso vai ser passado, que será pelo usuario digitando, se ele nao digitar, vem os valores 
         //padrões de 0 a 59. A forma de passar no swagger é assim: //localhost:7003/filme?skip=10&take=50
         [HttpGet]
-        public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip = 5, [FromQuery]int take = 60)
+        public IEnumerable<Filme> RecuperaFilmes([FromQuery] int skip = 0, [FromQuery]int take = 60)
         {
-            return filmes.Skip(skip).Take(take);
+            return _context.Filmes.Skip(skip).Take(take);
         }
 
         //este metodo serve para recuperar um filme por id, aqui ele vai fazer a pesquisa pelo id do filme
@@ -52,10 +61,10 @@ namespace FilmesAPI.Controllers
         [HttpGet("{id}")]
         //public Filme? RecuperaFilmesPorId(int id)
         //nessa segunda forma de metodo iremos utilizar o padrao rest IActionResult, onde ele envia um status
-        //de sucesso ou defalha na requisição
+        //de sucesso ou de falha na requisição
         public IActionResult RecuperaFilmesPorId(int id)
         {
-            var filme = filmes.FirstOrDefault(filme => filme.Id == id);
+            var filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
             if (filme == null) return NotFound();
             return Ok(filme);
         }
