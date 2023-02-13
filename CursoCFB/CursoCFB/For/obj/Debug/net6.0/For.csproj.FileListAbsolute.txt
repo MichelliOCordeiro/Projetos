@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\For\bin\Debug\net6.0\For.exe
+D:\CursoCFB\CursoCFB\For\bin\Debug\net6.0\For.deps.json
+D:\CursoCFB\CursoCFB\For\bin\Debug\net6.0\For.runtimeconfig.json
+D:\CursoCFB\CursoCFB\For\bin\Debug\net6.0\For.dll
+D:\CursoCFB\CursoCFB\For\bin\Debug\net6.0\For.pdb
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.dll
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\refint\For.dll
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.pdb
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\For.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\For\obj\Debug\net6.0\ref\For.dll

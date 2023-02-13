@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\CursoCFB\CursoCFB\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\CursoCFB\CursoCFB\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\CursoCFB\CursoCFB\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

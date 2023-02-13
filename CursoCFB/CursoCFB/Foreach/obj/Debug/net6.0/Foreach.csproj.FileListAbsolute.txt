@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Foreach\bin\Debug\net6.0\Foreach.exe
+D:\CursoCFB\CursoCFB\Foreach\bin\Debug\net6.0\Foreach.deps.json
+D:\CursoCFB\CursoCFB\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Foreach\bin\Debug\net6.0\Foreach.dll
+D:\CursoCFB\CursoCFB\Foreach\bin\Debug\net6.0\Foreach.pdb
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.dll
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.pdb
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Foreach\obj\Debug\net6.0\ref\Foreach.dll

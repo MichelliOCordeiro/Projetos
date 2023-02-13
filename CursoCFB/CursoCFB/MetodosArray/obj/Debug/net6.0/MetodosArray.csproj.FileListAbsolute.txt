@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\MetodosArray\bin\Debug\net6.0\MetodosArray.exe
+D:\CursoCFB\CursoCFB\MetodosArray\bin\Debug\net6.0\MetodosArray.deps.json
+D:\CursoCFB\CursoCFB\MetodosArray\bin\Debug\net6.0\MetodosArray.runtimeconfig.json
+D:\CursoCFB\CursoCFB\MetodosArray\bin\Debug\net6.0\MetodosArray.dll
+D:\CursoCFB\CursoCFB\MetodosArray\bin\Debug\net6.0\MetodosArray.pdb
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.dll
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\refint\MetodosArray.dll
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.pdb
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\MetodosArray.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\MetodosArray\obj\Debug\net6.0\ref\MetodosArray.dll

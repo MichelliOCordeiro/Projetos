@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+D:\CursoCFB\CursoCFB\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+D:\CursoCFB\CursoCFB\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+D:\CursoCFB\CursoCFB\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+D:\CursoCFB\CursoCFB\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll

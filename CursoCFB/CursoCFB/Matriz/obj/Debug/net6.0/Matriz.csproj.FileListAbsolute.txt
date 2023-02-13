@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Matriz\bin\Debug\net6.0\Matriz.exe
+D:\CursoCFB\CursoCFB\Matriz\bin\Debug\net6.0\Matriz.deps.json
+D:\CursoCFB\CursoCFB\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Matriz\bin\Debug\net6.0\Matriz.dll
+D:\CursoCFB\CursoCFB\Matriz\bin\Debug\net6.0\Matriz.pdb
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.dll
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.pdb
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Matriz\obj\Debug\net6.0\ref\Matriz.dll

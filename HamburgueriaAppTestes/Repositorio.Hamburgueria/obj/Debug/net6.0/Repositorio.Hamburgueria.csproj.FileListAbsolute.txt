@@ -1,0 +1,15 @@
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\bin\Debug\net6.0\Repositorio.Hamburgueria.deps.json
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\bin\Debug\net6.0\Repositorio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\bin\Debug\net6.0\Repositorio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.csproj.AssemblyReference.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.AssemblyInfoInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.AssemblyInfo.cs
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.csproj.CoreCompileInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.csproj.CopyComplete
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\refint\Repositorio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\Repositorio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Repositorio.Hamburgueria\obj\Debug\net6.0\ref\Repositorio.Hamburgueria.dll

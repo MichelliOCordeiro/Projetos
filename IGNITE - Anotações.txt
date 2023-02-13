@@ -1,0 +1,356 @@
+iniciar npm init !!
+
+npm add @babel/core @babel/cli @babel/preset-env -D
+
+Babel tem a função de converer o codigo para que funcione em varios browsers 
+o d no final tem a função do babel converter o codigo mesmo antes da párte de produção, entao ele nao precisara ficar sendo executado quando estiver com o projeto online
+
+ @babel/preset-env == serve para filtrar o que realmente ira converter, quando usamos back nem sempre é necessario converter tantos codigos, ele faz essa distinção
+
+module.exports = {
+    presets: [
+        '@babel/preset-env'
+    ]
+}
+
+Exporta esse preset para que ele funcione
+
+npx babel src/index.js --out-file dist/bundle.js
+cria automaticamente a pasta onde os arquivos serao conveetidos
+
+npm add @babel/preset-react -D
+converte html no react, sem isso ele nao reconhece o html
+
+Webpack- coloca confi para que possa inserir arquivos css, png,jpg
+
+PARA INSTALAR: npm add webpack webpack-cli webpack-dev-server -D
+
+MIRAGEJS - para consumir uma api sem ter o back end pronto
+npm add miragejs
+
+
+Baixar axios:
+npm add axios
+
+handle: quando o usuario vai clicar para alguma coisa acontecer
+
+npm add babel-loader
+dependencia que integra babel e webpack
+
+npm add html-webpack-plugin -D
+essa instalaçao falicita para nao precisar ficar mudando o caminho no index, aquele caminho de ../dist/bundle
+
+npm add webpack-dev-server -D
+para nao ficar dando npm webpack toda vez que alterar algo
+
+devtool: 'eval-source-map', coloca n webpack config e pausa a app e depois roda npx webpack serve
+funcionalidade onde aparece exatamente onde esta o erro da app no console
+
+ambiente de dev e produção:
+const isDevelopment = process.env.NODE_ENV !== 'production';
+
+module.exports = {
+  mode: isDevelopment ? 'development' : 'production',
+  devtool: isDevelopment ? 'eval-source-map' : 'source-map',
+
+npm add cross env -D
+definir variaveis ambientes independente do sistema operacional
+
+para conseguir importar css:
+npm add style-loader css-loader
+
+npm add node-sass -D
+npm add sass-loader
+O SASS é uma linguagem de extensão do CSS, a sigla significa “Syntactically Awesome Style Sheets” traduzindo ao pé da letra, folhas de estilo com uma sintaxe incrível. A sua ideia é adicionar recursos especiais como variáveis, mixins, funções e operações e outras opções variadas que iremos comentar
+uma melhora para o css, nao precisa usar somente css puro
+
+o que sao componentes?
+as tags no hmtl encapsula um elemento em varios lugares, forma de organizar a app em varios pedaços. Cada componente tem sua reposnsabilidade, estilo, etc euqnado conectamos formam algo maior
+o app do inicio já é um componente
+propriedades: atributos, posso jogar uma informação do componente pai, para o filho chamando os parametros atraves do props
+ex: se colocar em uma variavel que o nome dela é batata, posso dizer em outro componente que ele vai "herdar" esse nome batata
+
+COMPONENTE PAI - repository list
+import { RepositoryItem } from "./RepositoryItem";
+
+export function RepositoryList() {
+    return (
+        <section className="repository-list">
+            <h1>Lista de repositórios</h1>
+            <ul>
+                <RepositoryItem batata='Olá, mundo!'/>
+                <RepositoryItem/>
+                <RepositoryItem/>
+                <RepositoryItem/>
+            </ul>
+        </section>
+    );
+}
+
+COMP FILHO - repository item
+xport function RepositoryItem(props) {
+    return (
+        <li>
+            <strong>{props.batata}</strong>
+            <p>Forms in React</p>
+
+            <a href="">
+                Acessar respositório</a>
+
+        </li>
+    );
+}
+
+Esse props.batata fez com que o atributo que coloquei ola mundo fosse colocado tbem no comp. filho, ira apresentar esse resultado no console
+
+Posso tambem criar uma constante com todas as informações e somente passar nas chaves o que quero
+import { RepositoryItem } from "./RepositoryItem";
+
+const repository = {
+    name: 'Olá, mundo!',
+    description: 'Forms in React',
+    link: 'www.com.br'
+}
+
+export function RepositoryList() {
+    return (
+        <section className="repository-list">
+            <h1>Lista de repositórios</h1>
+            <ul>
+                <RepositoryItem repository={repository}/>
+
+FILHO:
+export function RepositoryItem(props) {
+    return (
+        <li>
+            <strong>{props.repository?.name ?? 'Default'}</strong>
+            <p>{props.repository?.description}</p>
+
+            <a href={props.repository?.link}>
+                Acessar respositório</a>
+        </li>
+    );
+}
+
+RESULTADO:
+Lista de repositórios
+Olá, mundo!
+Forms in React
+Acessar respositório (SOMENTE ESSE QUE REALMENTE TEM O LINK)
+Default
+Acessar respositório
+Default
+Acessar respositório
+Default
+Acessar respositório
+
+SEMPRE QUE OUVER 2 COMPONENTES:
+	<>
+        <RepositoryList />
+        <Counter />
+        </>
+
+RENDERIZARRRRRRR = ATO DE UM COMPONENTE EXIBIR NA TELA
+
+ESTADO - USESTATE (todas as funçoes use, sao hook(ganhos)
+Conceito que ele monitora as variavies e toda vez que ela mudar ele renderiza novamente
+import { useState } from "react";
+
+export function Counter() {
+    const [counter, setCounter] = useState(0);
+
+    function increment() {
+        setCounter(counter + 1);
+    }
+
+    return (
+        <div>
+            <h2>{counter}</h2>
+            <button type="button" onClick={increment}>
+                Increment
+            </button>
+        </div>
+    );
+}
+o Set que fica responsavel por fazer esse incremento
+
+IMUTABILIDADE
+//imutabilidade : cria um novo espaço na memoria contendo a nova informação, não altera algo dentro da memória
+//usuarios = ['michelli', 'leo', 'rafa']
+// usuarios.push('bob') aqui eu insiro numa nova memoria o add do bob
+// forma correta: novoUsuario = [...usuarios(carrega toda a base da linha 6), 'bob' ]
+
+ npm add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+aqui adiciona o refresh do react, ele nao ficara resetando todas as informações sempre que acrescentar algo. ex: estou fazendo teste de um carrinho e não posso perder as informações de compra e frete que ja estao la. Essa instalação ira deixar permanecer esses dados
+
+USEEFFECT - disparar uma funcao quando algo acontecer
+recebe dois parametros dentro:
+
+1°- qual função quero executar
+2° - quando eu quero usar
+
+sempre colocar o segundo parametro, senao entra em loop
+
+useEffect(() => {}, [])
+se eu passar o array vazio, a funcao chamada é exceutada somente uma vez, porque nao existe nada que quando aconteça novamente altere o estado
+
+useEffect(() => {
+        fetch('https://www.api.github.com/orgs/rocketseat/repos') ===busco a api do git
+        .then(response => response.json()) === quando ele achar um resultado, ele converte em json
+        .then(data => setRepositories(data)) === quando terminar a conversão, terei os dados do repositorio
+    }, []);
+
+Mudanças se aparecer no console erro no react 2018
+
+USESTATE:é usado quando preciso mudar o valor da variavel
+Ex:
+const [num, setNum]=useState(10) == inicializa o estado o que esta entre os parenteses: se colocar 10 o resultado sera 10
+
+return (
+   valor do state num: {num} ====10(valor inserido no state la em cima) 				
+)
+
+outro exemplo:
+const [num, setNum]=useState(10) 
+return (
+   valor do state num: {num}
+   button onClick={()=>setNum(100)} === aqui estou setando o valor 100 no estado do botão, ao clicar no botão o resultado do num muddara de 10 para 100
+)
+
+outro:
+const [num, setNum]=useState(10) 
+return (
+   valor do state num: {num}
+   button onClick={()=>setNum(num+10)} === aqui ele esta pegando o valor 10 da constante e somando 10 sempre que clico no botão
+)
+
+Se precisar da alteração dentro de um componente
+novo arq numero
+export default function Numero(props.num){
+return(
+  Valor do state num em Numero: {num}
+  button onClick={()=>props.setNum(props.num+10))}>Soma 10</button>}
+)
+}
+
+import Numero from...
+
+export default function App(){
+
+const [num, setNum]=useState(10) 
+
+return(
+  Valor do state num em App: {num}
+  <Numero num={num} setNum={setNum}/>
+)
+}
+
+props é constante, ela somente pega a leitura do dado. para alterar, precisa sepre chamar setNum
+
+MAP:
+ele retorna o elemento da lista com os "filtros"
+EXEMPLO:
+
+const carros = [categoria: '']
+
+
+INDEX ANTES 
+import {render} from 'react-dom';
+import {App} from './App'
+
+render(<App />, document.getElementById('root'))
+
+INDEX DEPOIS
+import React from 'react';
+import * as ReactDOMClient from 'react-dom/client';
+import { App } from './App';
+
+const container = document.getElementById('root');
+
+const root = ReactDOMClient.createRoot(container);
+
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+
+TYPESCRIPT é considerada uma superSet, seria como uma melhoria de uma linguagem. No caso do React o TS não é lido, somente o JS, ele somente é lido antes, não chega a ser "compilado" digamos assim
+
+Ex:
+
+Tipo Usuario = {
+	nome: string
+	email: string
+	endereço: {
+	cidade: string
+	estado?: string === quando tem esse negativo ele nao é obrigado a passar o valor
+	}
+}
+
+function MensagemDeEntrada(usuario: Usuario) == vai pegar todas as informações da "interface" usuario {
+return `Bem-vindo ${usuario.nome}, seu email é ${user.email}`....
+}
+
+const usuario= {
+	nome: 'Bob',
+	email: 'bob@email',
+	endereço: {
+	cidade: 'sp'
+}
+
+const mensagem = MensagemDeEntrada(usuario)
+
+INSTALAR TS:
+npm add typescript -D
+npm run tsc -- --init (precisa colocar no script do package.json: "tsc":"tsc"
+NO TSCONFIG:
+{
+  "compilerOptions": {    
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],                                       
+    "jsx": "react-jsx",                               
+    "moduleResolution": "node",  
+    "resolveJsonModule": true,    
+    "isolatedModules": true,                
+    "allowJs": true,                                 
+    "noEmit": true,                                  
+    "allowSyntheticDefaultImports": true,            
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,           
+    "strict": true,                                     
+    "skipLibCheck": true                                
+  },
+  "include": ["src"]
+}
+
+npm add @babel/preset-typescript -D === para que o babel reconheca o ts
+add no babelConfig: '@babel/preset-typescript',
+
+No webpack: test: /\.(j|t)sx$/, == para que ele leia tanto js como ts
+entry: path.resolve(__dirname, 'src', 'index.tsx'),
+    extensions: ['.js', '.jsx', 'ts', '.tsx'],
+trocar o nome do index para final tsx
+
+vai dar erro no index, precisara instalar:
+npm add @types/react-dom -D
+
+forEach: percorre e faz uma função mas nao retorna nada
+
+Map: percorre e para cada ele retorna algo
+
+{repositories.map(repository => {
+                    return <RepositoryItem key={repository.name} repository={repository} />
+                })}    
+
+key= propriedade unica, sempre que faz o map precisa ter um key. Qual é a informação unica que o repositorio tem
+
+CRIAR REACT DO ZERO:
+npx create-react-app dtmoney --template typescript
+
+INSTALAR CSS COMPONENTS:
+npm add styled-components
+instalar o pacote complementar para que o styled css funcione
+npm add @types/styled-components -D
+
+sempre que eu precisar armazenar qual botão ela clicou, é preciso usar o state

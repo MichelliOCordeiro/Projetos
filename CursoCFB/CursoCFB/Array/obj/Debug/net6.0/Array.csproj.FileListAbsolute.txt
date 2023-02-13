@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Array\bin\Debug\net6.0\Array.exe
+D:\CursoCFB\CursoCFB\Array\bin\Debug\net6.0\Array.deps.json
+D:\CursoCFB\CursoCFB\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Array\bin\Debug\net6.0\Array.dll
+D:\CursoCFB\CursoCFB\Array\bin\Debug\net6.0\Array.pdb
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.dll
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\refint\Array.dll
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.pdb
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Array\obj\Debug\net6.0\ref\Array.dll

@@ -1,0 +1,5 @@
+D:\EstudosCSharp\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.csproj.AssemblyReference.cache
+D:\EstudosCSharp\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.AssemblyInfoInputs.cache
+D:\EstudosCSharp\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.AssemblyInfo.cs
+D:\EstudosCSharp\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.csproj.CoreCompileInputs.cache

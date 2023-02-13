@@ -1,0 +1,17 @@
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Servico.Hamburgueria.deps.json
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Servico.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Servico.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Repositorio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Repositorio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.csproj.AssemblyReference.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.AssemblyInfoInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.AssemblyInfo.cs
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.csproj.CoreCompileInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.csproj.CopyComplete
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\refint\Servico.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\Servico.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Servico.Hamburgueria\obj\Debug\net6.0\ref\Servico.Hamburgueria.dll

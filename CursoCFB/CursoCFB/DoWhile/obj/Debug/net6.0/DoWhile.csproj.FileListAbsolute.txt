@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\DoWhile\bin\Debug\net6.0\DoWhile.exe
+D:\CursoCFB\CursoCFB\DoWhile\bin\Debug\net6.0\DoWhile.deps.json
+D:\CursoCFB\CursoCFB\DoWhile\bin\Debug\net6.0\DoWhile.runtimeconfig.json
+D:\CursoCFB\CursoCFB\DoWhile\bin\Debug\net6.0\DoWhile.dll
+D:\CursoCFB\CursoCFB\DoWhile\bin\Debug\net6.0\DoWhile.pdb
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.dll
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\refint\DoWhile.dll
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.pdb
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\DoWhile.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\DoWhile\obj\Debug\net6.0\ref\DoWhile.dll

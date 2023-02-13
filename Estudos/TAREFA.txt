@@ -1,0 +1,52 @@
+GESTOR: HOTMAIL
+COLABORADOR: GMAIL
+
+Projeto de QA no Git, onde listava contas usadas, etc
+
+Abertura de emails, para teste
+Colaborador
+Gestor
+Gestor master
+
+gestormaster@sah.com.br
+
+Abertura de uma nova empresa
+
+Botões de disponivel:
+Jornada:
+Onboarding OK
+Reuniao 1:1 NÃO
+as batata - renomeia
+
+export const Routes: any - posso exportar para outras oastas, any é tipo qualquer, 99% e react fc
+
+quando fecha na mesma linha: <Navbar/>
+quando nao  <Navbar> </Navbar>
+
+peça ja
+rota para ela
+
+estilizar a navbar
+
+deixar todas as paginas com rota para principal (home)
+
+footer - 
+
+ const form: iModel = {
+      Email: Email,
+      Senha: Senha
+    }
+
+objeto recebe o dois pontos
+
+repositorio esta mais perto do banco de dados
+
+servico esta entre o repositorio e o controlador. sempre tem a intencao de acessar o repositorio
+
+para eu ter acesso crio uma instancia 
+
+interface é o contrato do repositorio
+
+
+
+

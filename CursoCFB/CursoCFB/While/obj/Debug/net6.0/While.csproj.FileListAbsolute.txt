@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\While\bin\Debug\net6.0\While.exe
+D:\CursoCFB\CursoCFB\While\bin\Debug\net6.0\While.deps.json
+D:\CursoCFB\CursoCFB\While\bin\Debug\net6.0\While.runtimeconfig.json
+D:\CursoCFB\CursoCFB\While\bin\Debug\net6.0\While.dll
+D:\CursoCFB\CursoCFB\While\bin\Debug\net6.0\While.pdb
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.dll
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\refint\While.dll
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.pdb
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\While\obj\Debug\net6.0\ref\While.dll

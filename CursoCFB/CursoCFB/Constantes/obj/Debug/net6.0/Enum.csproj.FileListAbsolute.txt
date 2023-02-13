@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Constantes\bin\Debug\net6.0\Enum.exe
+D:\CursoCFB\CursoCFB\Constantes\bin\Debug\net6.0\Enum.deps.json
+D:\CursoCFB\CursoCFB\Constantes\bin\Debug\net6.0\Enum.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Constantes\bin\Debug\net6.0\Enum.dll
+D:\CursoCFB\CursoCFB\Constantes\bin\Debug\net6.0\Enum.pdb
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.dll
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\refint\Enum.dll
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.pdb
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Constantes\obj\Debug\net6.0\ref\Enum.dll

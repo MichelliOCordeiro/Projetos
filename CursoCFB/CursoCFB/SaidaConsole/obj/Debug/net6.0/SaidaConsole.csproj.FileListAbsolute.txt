@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\SaidaConsole\bin\Debug\net6.0\SaidaConsole.exe
+D:\CursoCFB\CursoCFB\SaidaConsole\bin\Debug\net6.0\SaidaConsole.deps.json
+D:\CursoCFB\CursoCFB\SaidaConsole\bin\Debug\net6.0\SaidaConsole.runtimeconfig.json
+D:\CursoCFB\CursoCFB\SaidaConsole\bin\Debug\net6.0\SaidaConsole.dll
+D:\CursoCFB\CursoCFB\SaidaConsole\bin\Debug\net6.0\SaidaConsole.pdb
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.dll
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\refint\SaidaConsole.dll
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.pdb
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\SaidaConsole.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\SaidaConsole\obj\Debug\net6.0\ref\SaidaConsole.dll

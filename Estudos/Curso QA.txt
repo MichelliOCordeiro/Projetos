@@ -1,0 +1,19 @@
+O teste de caixa branca é usado para testar um sistema de software com base na sua arquitetura. Esse tipo de abordagem serve para testar cada módulo do sistema de acordo com seu código. Pode ser feito pelos próprios desenvolvedores ou QAs técnicos que entendam da estrutura do projeto. Um exemplo de testes de caixa branca são: teste unitário, de integração de módulos e de serviço (API);
+
+O teste de caixa preta é usado para testar a funcionalidade do sistema, independentemente de seu código. Seu objetivo principal é garantir que os requisitos sejam atendidos. Por exemplo: testes funcionais e regressivos;
+
+A pirâmide de testes é importante porque define níveis de testes e nos dá um norte quanto à quantidade de testes necessários em cada um dos níveis. No topo, temos os testes de ponta a ponta, no meio, teste de integração e na base, testes de unidade. Precisamos lembrar que a base da pirâmide compreende testes mais fáceis e rápidos para executar, enquanto o topo, mais difíceis e lentos;
+
+Evidência de testes são imagens e/ou vídeos que comprovam que um determinado teste foi executado e o resultado esperado foi obtido. Podem ser screenshots de uma determinada tela ou o vídeo de um software em funcionamento. São importantes para documentar os testes realizados, servindo de insumos e métricas.
+
+TestLink é uma ferramenta open source de gerenciamento de testes. Com ela conseguimos cadastrar projetos de teste, bem como seus respectivos planos e casos de testes. É possível controlar e armazenar a execução dos casos especificados e também gerar um relatório dos testes que já foram executados. Além disso, permite a integração com diversas ferramentas de rastreamento de defeitos como Jira, Mantis, Bugzilla, dentre outras.
+Bugzilla e Mantis são duas ferramentas populares para o rastreamento de bugs. Ambas são de código aberto e oferecem recursos como reporte de bugs, relatórios, gráficos, além da possibilidade de definição de prioridades de bugs envolvendo clientes e opções como mandar e-mails quando um bug é reportado ou resolvido, por exemplo.
+
+Jira tem interação com ferramentas da Microsoft e é muito utilizada pelas empresas, servindo para a gestão de todo o projeto e suas atividades. Oferece suporte para qualquer metodologia ágil, como Scrum e Kanban. Com ela é possível acompanhar as tarefas sendo desenvolvidas, reportar e acompanhar bugs. Por meio de um plugin chamado XRay, ela se torna uma ferramenta poderosa para a gestão, permitindo planejar, projetar e executar testes, bem como gerar relatórios.
+
+teste regressivo: é o teste que pega toda a parte do componente de algo novo que foi feito.
+ex: foi feito uma funcionalidade de comentario de uma foto, é necessario verificar se todos os componentes que ficam "ao lado - envolvem" e que usam ele estao funcionando corretamente. Preciso testar se o comentario esta aparecendo, se a funcao de anonimizar um comentario esta ok, a foto, as curtidas estao ok? Os outros componenetes precisam estar ok
+
+Google Lighthouse” = mostra a performance e a acessibilidade do sistema
+
+https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fsah.arquiteturahumana.com.br%2FColaborador&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext

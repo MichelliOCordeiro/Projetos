@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Servico.Hamburgueria/1.0.0": {
+        "dependencies": {
+          "Repositorio.Hamburgueria": "1.0.0"
+        },
+        "runtime": {
+          "Servico.Hamburgueria.dll": {}
+        }
+      },
+      "Dominio.Hamburgueria/1.0.0": {
+        "runtime": {
+          "Dominio.Hamburgueria.dll": {}
+        }
+      },
+      "Repositorio.Hamburgueria/1.0.0": {
+        "dependencies": {
+          "Dominio.Hamburgueria": "1.0.0"
+        },
+        "runtime": {
+          "Repositorio.Hamburgueria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Servico.Hamburgueria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dominio.Hamburgueria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositorio.Hamburgueria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

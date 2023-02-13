@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\EscopoVariaveis\bin\Debug\net6.0\EscopoVariaveis.exe
+D:\CursoCFB\CursoCFB\EscopoVariaveis\bin\Debug\net6.0\EscopoVariaveis.deps.json
+D:\CursoCFB\CursoCFB\EscopoVariaveis\bin\Debug\net6.0\EscopoVariaveis.runtimeconfig.json
+D:\CursoCFB\CursoCFB\EscopoVariaveis\bin\Debug\net6.0\EscopoVariaveis.dll
+D:\CursoCFB\CursoCFB\EscopoVariaveis\bin\Debug\net6.0\EscopoVariaveis.pdb
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.dll
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\refint\EscopoVariaveis.dll
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.pdb
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\EscopoVariaveis.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\EscopoVariaveis\obj\Debug\net6.0\ref\EscopoVariaveis.dll

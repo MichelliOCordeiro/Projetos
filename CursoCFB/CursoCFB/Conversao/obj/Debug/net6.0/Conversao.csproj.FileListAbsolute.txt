@@ -1,0 +1,15 @@
+D:\CursoCFB\CursoCFB\Conversao\bin\Debug\net6.0\Conversao.exe
+D:\CursoCFB\CursoCFB\Conversao\bin\Debug\net6.0\Conversao.deps.json
+D:\CursoCFB\CursoCFB\Conversao\bin\Debug\net6.0\Conversao.runtimeconfig.json
+D:\CursoCFB\CursoCFB\Conversao\bin\Debug\net6.0\Conversao.dll
+D:\CursoCFB\CursoCFB\Conversao\bin\Debug\net6.0\Conversao.pdb
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.csproj.AssemblyReference.cache
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.AssemblyInfoInputs.cache
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.AssemblyInfo.cs
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.csproj.CoreCompileInputs.cache
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.dll
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\refint\Conversao.dll
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.pdb
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\Conversao.genruntimeconfig.cache
+D:\CursoCFB\CursoCFB\Conversao\obj\Debug\net6.0\ref\Conversao.dll

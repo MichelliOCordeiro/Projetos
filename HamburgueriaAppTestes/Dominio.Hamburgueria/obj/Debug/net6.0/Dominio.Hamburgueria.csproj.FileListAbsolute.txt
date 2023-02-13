@@ -1,0 +1,12 @@
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.deps.json
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\bin\Debug\net6.0\Dominio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.csproj.AssemblyReference.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.AssemblyInfoInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.AssemblyInfo.cs
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.csproj.CoreCompileInputs.cache
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\refint\Dominio.Hamburgueria.dll
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\Dominio.Hamburgueria.pdb
+C:\Users\MICHELLI.OLIVEIRA\source\repos\HamburgueriaApp\Dominio.Hamburgueria\obj\Debug\net6.0\ref\Dominio.Hamburgueria.dll
